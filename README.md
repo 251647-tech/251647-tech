@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshrampahari1" target="blank"><img src="https://img.shields.io/twitter/follow/harshrampahari1?logo=twitter&style=for-the-badge" alt="harshrampahari1" /></a> </p>
 
-- 🔭 I’m currently working on [Decentrabox](https://github.com/251647-tech/DecentraBox.git)
+ 
 
 - 📫 How to reach me **rampahari1@gmail.com**
 
